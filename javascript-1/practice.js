@@ -156,10 +156,6 @@ myNumbers.forEach(function(myNumbers, index){
 // Did you know that George Foreman has five sons named George? Let's go ahead and change everyone's name in the notGeorge array to George using .map. Call the new array 'forTheLoveOfGeorge'
 const notGeorge = ['Louis', 'Ted', 'Bill', 'Sharon', 'Mark', 'Angela']
 
-let forTheLoveOfGeorge = 
-
-
-
 
 
 //////////////////PROBLEM 19////////////////////
