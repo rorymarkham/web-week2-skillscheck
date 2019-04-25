@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.company {
+    background: rgb(95, 95, 95);
+    color: white;
+    list-style: none;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 60px;
+}
+
+.company h1 {
+    margin-right: auto;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+li {
+    padding: 20px;
+    font-weight: 200;
+    text-transform: capitalize;
+}
+
+.header {
+    height: 40vh;
+    color: rgb(245, 245, 94);
+    background: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.container-one {
+    margin-top: 4em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-one {
+    height: 300px;
+    width: 300px;
+    background: aquamarine;
+    border-radius: 20px;
+}
+
+.box-two {
+    height: 300px;
+    width: 300px;
+    background: aquamarine;
+    border-radius: 20px;
+}
+
+.box-three {
+    height: 300px;
+    width: 300px;
+    background: aquamarine;
+    border-radius: 20px;
+}
+
+.container-two {
+    margin-top: 4em;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.rect-one {
+    height: 250px;
+    width: 530px;
+    background: rgb(240, 190, 115)
+}
+
+.rect-two {
+    height: 250px;
+    width: 530px;
+    background:  rgb(240, 190, 115)
+}
+
+.container-three {
+    margin-top: 4em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text {
+    height: 250px;
+    width: 530px;
+}
+
+.footer {
+    height: 20vh;
+    background: rgba(36, 0, 121, 0.534)
+}
